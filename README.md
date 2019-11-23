@@ -1,4 +1,5 @@
 # LearnWithEase
 
-For demo follow the given link.
+Available live👇
 
+http://learnwithease.ml/
